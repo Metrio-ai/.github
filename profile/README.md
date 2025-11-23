@@ -1,12 +1,16 @@
-## Hi there 👋
+# Metrio
 
-<!--
+## Coach Hub
+### Infra
+- [Databases](https://github.com/Metrio-ai/ch-db-infra)
 
-**Here are some ideas to get you started:**
+### Backend
+#### Principal
+- [CoachHub API](https://github.com/Metrio-ai/coach-hub-api)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+#### Servicios
+- [CoachHub Auth](https://github.com/Metrio-ai/ch-backend-auth)
+
+### Frontend
+#### Principal
+- [CoachHub Frontend](https://github.com/Metrio-ai/coach-hub-frontend)
